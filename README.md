@@ -13,6 +13,7 @@ A deep neural network model for massive remote sensing and other geospatial data
 ## EVALUATION
 The evaluation metric for this challenge is the Log Loss.
 
-## RESULTS: https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge/leaderboard
+## RESULTS
+##### https://zindi.africa/competitions/inegi-gcim-vegetation-mapping-challenge/leaderboard
 * PUBLIC LB: 3.507238727
 * PRIVATE LB: 3.434944438
